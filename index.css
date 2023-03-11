@@ -2,4 +2,6 @@ body {
   width: 150%;
   color: red;
   font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  display: block;
 }
