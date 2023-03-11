@@ -1,5 +1,12 @@
 body {
   width: 150%;
   color: red;
+<<<<<<< HEAD
   height: 101px;
+=======
+  font-size: 20px;
+  display: none;
+  font-family: 'Courier New', Courier, monospace;
+  display: block;
+>>>>>>> 96944f6bd69d27c5112ed788ac121b291ab6edab
 }
